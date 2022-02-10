@@ -22,6 +22,8 @@
             <li class="nav-item">
                 <a class="nav-link" href="nosotros.php">Nosotros</a>
             </li>
+        </ul>
+        <ul class="nav navbar-nav ms-auto">
             <li class="nav-item">
                 <a class="nav-link" href="administrador/index.php">Administrador</a>
             </li>

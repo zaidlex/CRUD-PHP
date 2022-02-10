@@ -143,6 +143,8 @@
 </div>
 
 <div class="col-md-7">
+    <a name="" id="" class="btn btn-info float-end" href="reportes.php" role="button">Generar reporte</a>
+    <br>
     <table class="table table-bordered">
         <thead>
             <tr>

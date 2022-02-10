@@ -1,6 +1,6 @@
 <?php
     session_start();
-    if($_POST['usuario'] == "admUser" && $_POST['contrasena'] == "Sys345AD"){
+    if($_POST['usuario'] == "admUser" && $_POST['contrasena'] == "passSYS"){
         $_SESSION['usuario'] = "OK";
         $_SESSION['nomUsuario']  = "Zaid";
         header('Location:inicio.php');
